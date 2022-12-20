@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/profile-card-component-QV5Q5q8Uo-)
 - Live Site URL: (https://grand-cactus-279104.netlify.app/)
 
 ## My process
